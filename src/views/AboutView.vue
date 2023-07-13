@@ -1,5 +1,17 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <main>
+    <div>
+      This is the about Page
+    </div>
+  
+  </main>
 </template>
+<script scoped>
+
+</script>
+<style scoped>
+.new {
+  position: absolute;
+  bottom: 0;
+}
+</style>
